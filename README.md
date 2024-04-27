@@ -1,5 +1,6 @@
-👋 Hi there. My name is Jianxiang (Jason) Zhou. I am a Mphil student major in Data Science and Analytics at the Hongkong University of Science and Technology, Guangzhou, mentored by [Dr. Yuxuan Liang](https://citymind.top/). I received my B.E. in Robotics Engineering at the Southern University of Science and Technology in 2023, mentored by [Dr. Zhenzhong Jia](https://www.sustech.edu.cn/en/faculties/jiazhenzhong.html).
+👋 Hi there. My name is Jianxiang (Jason) Zhou. I am a Mphil student major in Data Science and Analytics at the Hongkong University of Science and Technology, Guangzhou, mentored by [Dr. Yuxuan Liang](https://citymind.top/). Previously, I received my B.E. in Robotics Engineering from the Southern University of Science and Technology in 2023, mentored by [Dr. Zhenzhong Jia](https://www.sustech.edu.cn/en/faculties/jiazhenzhong.html).
 
-🔭 Currently I’m interested in spatiol-temporal data mining and urban computing, looking forward to a future of an efficent and satisfactory samrt city for human society.
-📫 Email: jasonzhou314@gmail.com
-🌈 Please refer to my [homepage](https://jasonz5.github.io/) for more details.
+🔭 I am deeply interested in spatiotemporal data mining and urban computing.  
+📫 Please feel free to contact me at: jasonzhou314@gmail.com.  
+🌈 For more information, visit my [homepage](https://jasonz5.github.io/).
+
